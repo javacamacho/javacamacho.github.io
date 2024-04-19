@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fondo {
+    background-color: #f7e8e3;
+}
+
+.lista {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.punto {
+    list-style-type: none;
+}
+
+.card-img-top {
+    border: 1px solid lightgray;
+}
